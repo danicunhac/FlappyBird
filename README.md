@@ -1,5 +1,5 @@
 Flappy Bird looking game created with vanilla JavaScript, simple project for studying purposes.
-Made by @dacokid
+Made by @danicunhac
 
 How to play:
 You can use pretty much any key on your keyboard, but the arrow up key or spacebar is the one I recommend.
